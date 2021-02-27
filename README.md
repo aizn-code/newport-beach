@@ -1,4 +1,4 @@
-# newport-beach
+# newport-beach 
 
 ## Project setup
 ```
